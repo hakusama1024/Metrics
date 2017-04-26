@@ -1,0 +1,78 @@
+Dedicated VMware vCloud|VMWDVD|VMware|Ernest Olivares|Michael Xin
+Server Virt Dev|SVD|VMware|Ernest Olivares|Michael Xin
+Business Process Templates|BPT|RackerTools|Scott Imel|Libni Ortiz-Valles
+Rackspace CTI|CTI|RackerTools|Anu Chandrasekaran|Libni Ortiz-Valles
+CORE|CORE|RackerTools|Julie Rogers|Libni Ortiz-Valles
+Adjustment and Credit Tool (ACT)|ACT|Billing|Pradip Dhaduk|Samy Sikdar
+Arbor|CODE|BU||QE
+Audit service|AUDIT|Billing|Nag Jalapati|Samy Sikdar
+Bastion Servers|NGB|BU|Allen Morris|
+Billing Care UI|CODE|Billing|Sanjay Singh|Himanshu Dhingra
+Billing Service Layer (BSL)|NA.  billing uses V1|Billing|Nag Jalapati|Samy Sikdar
+Business Process Interface (BPI)|NA.  billing uses V1|Billing|Cesar Garza|Chris DeMattio
+Carina|CON|Public Cloud|Raj Patel|
+CDN as a Service|CDN|Public Cloud|Amit Gandhi|June Rich
+Cloud Backup|CBAPI|Public Cloud|Amit Gandhi|June Rich
+Cloud DNS|DNS|Public Cloud|Joe McBride|
+Cloud Feeds|CF|Public Cloud|Greg Sharek|Manjusha Gokhale
+Cloud Identity|CIDM|Public Cloud|Bob Jacoby|Manjusha Gokhale
+Cloud Keep|KEEP|Public Cloud|Raj Patel|
+Cloud Metrics|CMD|Public Cloud|Alexander Scammon|Manjusha Gokhale
+Cloud Monitoring|CM|Public Cloud|Robert Emanuele|Manjusha Gokhale
+Cloud Networks|NQE|Public Cloud|Heath Brown|Chris Hunt
+Cloud Servers|CSENG|Public Cloud|Matt Van Winkle|Sabeen Syed
+Community Website|COMMSUPPT|Public Cloud|Stuart Bankey|
+Customer Billing UI|NA.  billing uses V1|Billing|Vincent Lutton|Samy Sikdar
+Customer Management Service (CMS)|CUST|Signup and Customer|Kari Davis|Manjusha Gokhale
+customer report|CODE|BU||
+Customer Service|CODE|Signup and Customer|Kari Davis|Manjusha Gokhale
+Customer Ticket API (Picard)|TS|RackerTools|Dina Trevino|Libni Ortiz-Valles
+Designate|CODE|Public Cloud|Joe McBride|
+Device Service|DVSVC|Dedicated|Carla Peeler|Libni Ortiz-Valles
+Document Management|CODE|GDCI|Marc Nourani|
+eConnect|NA.  billing uses V1|Billing|Connie Moore|Clara Griffin
+Elastic Invoice|NA.  billing uses V1|Billing|Spencer Roach|Ryan Morillo
+Email & Apps|CODE|Email & Apps|Jonathan Simonoff|
+Encore Support Services|SS|RackerTools|Scott Imel|Libni Ortiz-Valles
+Encore UI|ENNUI|RackerTools|Kerry Bowley|Libni Ortiz-Valles
+Fanatical AWS|FAWSENG|FAWS|Jim Rosser|Ellie Yampolskaya
+Fast-Lane|NA.  billing uses V1|Billing|Kishore Somavarpu|Himanshu Dhingra
+GOv1|CODE|BU||QE
+GSCS Databases|CODE|GSCS|Jim Salinas|Samy Sikdar
+Hardware Load Balancer API|CZLB|Infrastructure|Cody Somerville|
+Intelligence|INT|Public Cloud|Chris Pan|Richard Sartor
+Investor Relations|CODE|Investor Relations||
+Managed Backup (MBU)|SBDEV|Public Cloud|Eric Lewis|
+My Rackspace|MYRK|MyRackspace|Dinnorah Garcia|Jason Lundy
+MyCloud (Reach)|REACHQE|Public Cloud|Melissa Ushakov|Jason Lundy
+New Tracking Database Project|CODE|BU||QE
+Notifications|RNS|RackerTools|Scott Imel|Libni Ortiz-Valles
+Offer Service|NA.  billing uses V1|Billing|Nag Jalapati|Samy Sikdar
+OnMetal (Teeth)|TEETH|Public Cloud|Jesse Cook|Chris DeMattio
+Oracle Billing & Revenue Management (BRM)|NA.  billing uses V1|Billing|Sanjay Singh|Himanshu Dhingra
+Oracle Fusion Middleware (FMW)|NA.  billing uses V1|Billing|Vinodh Bhasker|Himanshu Dhingra
+Payment Services|NA.  billing uses V1|Billing|Nag Jalapati|Samy Sikdar
+Payment Support|NA.  billing uses V1|Billing|Nag Jalapati|Samy Sikdar
+Payment Support R2|NA.  billing uses V1|Billing|Nag Jalapati|Samy Sikdar
+Product Usage Mediation Audit Service|NA.  billing uses V1|Billing|Spencer Roach|Himanshu Dhingra
+Provisioning Workflow Tool (PWT)|CODE|GSCS|Chris Wiesenhutter|Chris DeMattio
+Public Github||||
+Quote Management|CODE|Quote Management|Ann Hess|
+Rackspace Blog UK|CODE|Rackspace UK|Jack Rawles|
+Rackspace Private Cloud (RPC)|RPCQE|RPC|Kaushik Balasubramanian|Dave Fecker
+rackspace.com|RSWEB|Public Cloud|Eric Johnson|Samy Sikdar
+Raptor|RAP|Billing|Connie Moore|Clara Griffin
+Runbook Automation (RBA)|NA.  billing uses V1|Billing|Manju Joshi|Chris DeMattio
+Salesforce (Fusion Transformation)|NA.  billing uses V1|Billing|Mark Quintero|Robert Garcia
+Salesforce Stash|NA.  billing uses V1|Billing|Jim Salinas|Clara Griffin
+Segment Support|CODE|GDCI|Jason Costello|
+Signup Service|SU|Signup and Customer|Kari Davis|Manjusha Gokhale
+Speakeasy|RNS|RackerTools|Scott Imel|Libni Ortiz-Valles
+Staging Data Integration Environment|CODE|BU||QE
+UK Cloud CutOver|UKBAU|Rackspace UK|Jack Rawles|
+Usage Management (UMS)|NA.  billing uses V1|Billing|Vincent Lutton|Himanshu Dhingra
+Usage Management Microservice (UMMS)|NA.  billing uses V1|Billing|Kishore Somavarpu|Himanshu Dhingra
+Vertex|NA.  billing uses V1|Billing|Ravee Rashakonda|
+VMware Software Defined Data Center|VMWSV|VMware|Ernest Olivares|Michael Xin
+VMware VRealize Ops|VMWVROPS|VMware|Brent Scotten|Michael Xin
+VMware vSPOT|VMWDVC|VMware|Bud Byrd|Michael Xin
